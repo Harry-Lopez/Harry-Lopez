@@ -1,7 +1,7 @@
 <div align="center" width="50">
     <img alt="Captura de pantalla 2025-06-12 175849" src="https://github.com/user-attachments/assets/a3796820-2c70-4029-b79d-707947d1183d" width="300"/>
 </div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Enrique</h1>
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Enrique</h1>
 
 
 ## About Me :
