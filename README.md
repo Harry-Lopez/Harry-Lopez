@@ -21,7 +21,7 @@
 
 <br>
 
-[![@harry_pott77](https://img.icons8.com/fluency/48/000000/instagram-new.png "@harry_pott77")](https://www.instagram.com/harry_pott77/)  [![enrique.l37708@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@enrique.l37708@gmail.com")](enrique.l37708@gmail.com)
+[![@harry_pott77](https://img.icons8.com/fluency/48/000000/instagram-new.png "@harry_pott77")](https://www.instagram.com/harry_pott77/) [![enrique.l37708@gmail.com](https://img.icons8.com/fluency/48/000000/gmail.png "Enviar correo a enrique.l37708@gmail.com")](mailto:enrique.l37708@gmail.com)
 
 <br>
 
