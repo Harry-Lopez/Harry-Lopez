@@ -37,8 +37,10 @@ A través de mi formación y proyectos personales, estoy profundizando en:
 ---
 
 ### 📊 Actividad en GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harry-Lopez&show_icons=true&theme=tokyonight" alt="Stats de Enrique" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harry-Lopez&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Harry" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Lopez&layout=compact&theme=tokyonight" alt="Lenguajes de Harry" />
 </p>
 
 ---
