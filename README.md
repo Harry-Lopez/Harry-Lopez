@@ -1,37 +1,47 @@
-<div align="center" width="50">
-    <img alt="Captura de pantalla 2025-06-12 175849" src="https://github.com/user-attachments/assets/a3796820-2c70-4029-b79d-707947d1183d" width="300"/>
-</div>
-<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Enrique</h1>
+# Enrique López
+**Student | Backend Developer Enthusiast**
 
+Soy estudiante enfocado en la construcción de la lógica que hace funcionar las aplicaciones. Mi pasión reside en el **Backend**, la arquitectura de datos y la seguridad. Actualmente estoy transicionando de la estructura web básica hacia el diseño de sistemas robustos y escalables.
 
-## About Me :
+---
 
-•	😅 Algunos me dicen Kike<br>
-•	👀 Me interesa y me apaciona la programación<br>
-•	🌱 Actualmente estoy aprendiendo lenguaje C++ y Python<br>
-•	🤓 Mi objetivo es desarrollar distintos programas que puedan facilitar las actividades de la vida cotidiana, resolver problemáticas que se presentan  en ella. Busco aprender nuevos lenguajes de programación, aumentar mi conocimiento y experiencia en proyectos web, desarrollar frontend, backend, apps móviles y en un futuro poder crear una IA.<br>
-•	🏁 Por el momento, mi proyecto más anvicioso...crear la IA definitiva ⚡<br>
-•	Tengo buenas ideas para futuros proyectos, principalmente trabajo individualmente, pero me encantaría y estoy dispuesto a trabajar en equipo para un mejor flujo de ideas y mejores proyectos.<br>
-•	🤩 Cuento con experiencia en oratoria, se me facilita hablar en público y mis pasatiempos además de la programación son el voleibol y tocar la guitarra.
+### 🎯 Mi Enfoque y Especialización
+A través de mi formación académica y proyectos personales, estoy especializándome en:
 
+* **Desarrollo Backend:** Construcción de lógica de servidor con Python y C++.
+* **APIs y Microservicios:** Desarrollo de APIs con **Flask** para la gestión de datos y recursos en tiempo real.
+* **Bases de Datos:** Diseño de esquemas relacionales, priorizando la integridad y la seguridad de la información.
+* **Ciberseguridad:** Implementación de protocolos de seguridad, hashing de contraseñas y manejo seguro de datos sensibles.
+* **Sistemas Lógicos:** Creación de chatbots (reglas/híbridos) y herramientas de automatización.
 
-<br>
+---
 
-## Connect with me ☕ :
+### 🛠️ Tech Stack & Herramientas
 
-<br>
+**Lenguajes y Backend:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-[![@harry_pott77](https://img.icons8.com/fluency/48/000000/instagram-new.png "@harry_pott77")](https://www.instagram.com/harry_pott77/) [![enrique.l37708@gmail.com](https://img.icons8.com/fluency/48/000000/gmail.png "Enviar correo a enrique.l37708@gmail.com")](mailto:enrique.l37708@gmail.com)
+**Estructura y Gestión de Datos:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-<br>
+---
 
-## What I am Good at 🧑‍💻 :
+### 🚀 Proyectos en Desarrollo (Academic & Personal)
+* **Backend API (Flask):** Sistema centralizado para gestión de usuarios con autenticación segura y persistencia de datos.
+* **Asistente de Lógica Emocional (C++):** Aplicación de consola que utiliza programación modular y validación de tipos para flujos de decisión complejos.
+* **Arquitectura Web:** Maquetación de interfaces funcionales con HTML y CSS, explorando la organización lógica del contenido.
 
-<br>
+---
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
+### 📊 GitHub Stats
+<p align="left">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radical" />
+</p>
 
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Icon"/>
-
-<br>
-
+### 📧 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/enrique-l-21157b380)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enrique.l37708@gmail.com)
